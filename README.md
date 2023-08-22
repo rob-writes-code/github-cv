@@ -6,6 +6,8 @@ Tech excites me as it offers the perfect blend of creativity and logic. It provi
 
 ## Projects
 
+_All below projects are pinned on my GitHub profile main page_
+
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Pisa Project**            | Team project to create an ETL pipeline for incoming data and provide insights in a dashboard | Python, PostgreSQL, Airflow, AWS (EC2 & RDS), Flask |
@@ -58,8 +60,8 @@ _Web Developer Course_
 - **Source control:** extensive use of Git to collaborate, share and protect code.
 
 #### University of Bristol (2010 to 2014)
+_BA (Hons) Russian and Politics_
 
-- BA (Hons) Russian and Politics
 - 2.1
 - Survived a Siberian winter.
 

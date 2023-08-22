@@ -41,7 +41,7 @@ _English Teacher_
 
 ## Education
 
-#### Makers Academy (APR 2023 to AUG 2023)
+**Makers Academy** (APR 2023 to AUG 2023)
 _Data Engineering Course_
 
 - **Modern Engineering Practices:** the course simulated a real-life software job as much as possible, frequently exposing me to common practices, such as TDD, source control, modular design, debugging, daily stand-ups and pair programming.
@@ -52,14 +52,14 @@ _Data Engineering Course_
 - **Stream Processing:** near real-time insights delivered using Kafka and PySpark.
 - **Distributed Applications:** utilised AWS services, such as Lambda and Athena to interact with databases deployed to the Cloud. Configured GitHub workflows to implement CI-CD practices.
 
-#### Nology (OCT 2021 to OCT 2022)
+**Nology** (OCT 2021 to OCT 2022)
 _Web Developer Course_
 
 - **Frontend:** honed my frontend skills through the completion of several projects, with a focus on responsiveness, OOP, TDD and clean code principles.
 - **Backend:** acquired fundamental skills in server-side development, exploring key concepts such as databases, authentication, data persistence, and RESTful APIs.
 - **Source control:** extensive use of Git to collaborate, share and protect code.
 
-#### University of Bristol (2010 to 2014)
+**University of Bristol (2010 to 2014)**
 _BA (Hons) Russian and Politics_
 
 - 2.1

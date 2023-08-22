@@ -71,6 +71,6 @@ _BA (Hons) Russian and Politics_
 
 ## Hobbies
 
-- I run and play at a local badminton club which competes in the Bristol League.
+I run and play at a local badminton club which competes in the Bristol League.
 
-- Passionate board gamer - current favourite is "Brass: Birmingham" a strategy game set during the industrial revolution of the Midlands.
+Passionate board gamer - current favourite is "Brass: Birmingham" a strategy game set during the industrial revolution of the Midlands.

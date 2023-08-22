@@ -1,6 +1,8 @@
 ## Robert Phillips
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Recent graduate from the Makers Data Engineering track with 4 years previous experience in a data role. Skilled in Python, SQL, Cloud computing (AWS), ETL pipelines (Airflow, Kafka) and data infrastructure (dbt, postgreSQL). 
+
+Tech excites me as it offers the perfect blend of creativity and logic. It provides the ultimate challenge of using my interpersonal skills to understand the needs of a client, before using my problem-solving skills to translate those needs into a technical product. It's a full brain workout which I find highly stimulating and rewarding!
 
 ## Projects
 

@@ -1,8 +1,8 @@
 ## Robert Phillips
 
-Recent graduate from the Makers Data Engineering track with 4 years previous experience in a data role. Skilled in Python, SQL, Cloud computing (AWS), ETL pipelines (Airflow, Kafka) and data infrastructure (dbt, postgreSQL). 
+Recent graduate from the Makers Data Engineering track with 4 years previous experience in a data role. Skilled in Python, SQL, Cloud computing (AWS), ETL pipelines (Airflow, Kafka) and data infrastructure (dbt, postgreSQL).
 
-Tech excites me as it offers the perfect blend of creativity and logic. It provides the ultimate challenge of using my interpersonal skills to understand the needs of a client, before using my problem-solving skills to translate those needs into a technical product. It's a full brain workout which I find highly stimulating and rewarding!
+Tech excites me as it offers the perfect blend of creativity and logic. It provides the ultimate challenge of using my interpersonal skills to understand the needs of a client, before then using my problem-solving skills to translate those needs into a technical product. It's a full brain workout which I find highly stimulating and rewarding!
 
 ## Projects
 
@@ -40,6 +40,8 @@ _English Teacher_
 ## Education
 
 #### Makers Academy (APR 2023 to AUG 2023)
+_Data Engineering Course_
+
 - **Modern Engineering Practices:** the course simulated a real-life software job as much as possible, frequently exposing me to common practices, such as TDD, source control, modular design, debugging, daily stand-ups and pair programming.
 - **Data Analysis:** utilised Python libraries for data science, such as pandas, seaborn and matplotlib. Predictive statistics, such as linear regression. Use of ‘sklearn’, a machine learning module, to test statistical models.
 - **Data-rich Presentation:** extracted data from related databases and generated insights for a mock client. Created dashboards and Jupyter notebooks to present data in a clear and informative way.
@@ -47,6 +49,13 @@ _English Teacher_
 - **Data Warehouses:** transformed raw data stored in the Cloud into usable data models and tested its quality using DBT. 
 - **Stream Processing:** near real-time insights delivered using Kafka and PySpark.
 - **Distributed Applications:** utilised AWS services, such as Lambda and Athena to interact with databases deployed to the Cloud. Configured GitHub workflows to implement CI-CD practices.
+
+#### Nology (OCT 2021 to OCT 2022)
+_Web Developer Course_
+
+- **Frontend:** honed my frontend skills through the completion of several projects, with a focus on responsiveness, OOP, TDD and clean code principles.
+- **Backend:** acquired fundamental skills in server-side development, exploring key concepts such as databases, authentication, data persistence, and RESTful APIs.
+- **Source control:** extensive use of Git to collaborate, share and protect code.
 
 #### University of Bristol (2010 to 2014)
 
@@ -60,6 +69,6 @@ _English Teacher_
 
 ## Hobbies
 
-I run and play at a local badminton club which competes in the Bristol League.
+- I run and play at a local badminton club which competes in the Bristol League.
 
-Passionate board gamer - current favourite is "Brass: Birmingham" a strategy game set during the industrial revolution of the Midlands.
+- Passionate board gamer - current favourite is "Brass: Birmingham" a strategy game set during the industrial revolution of the Midlands.
